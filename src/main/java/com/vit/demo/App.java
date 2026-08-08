@@ -2,7 +2,7 @@ package com.vit.demo;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Continuous Integration demo is running.");
+        System.out.println("Jenkins Continuous Integration demo is running.");
         System.out.println("2 + 3 = " + add(2, 3));
     }
 
