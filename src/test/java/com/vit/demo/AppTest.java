@@ -6,7 +6,7 @@ import static org.junit.Assert.fail;
 public class AppTest {
     @Test
     public void testAdd() {
-        int expected = 5;
+        int expected = 6;
         int actual = App.add(2, 3);
         if (expected == actual) {
             System.out.println("TEST PASSED: App.add(2, 3) returned " + actual + ".");
